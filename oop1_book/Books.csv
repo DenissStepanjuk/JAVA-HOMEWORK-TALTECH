@@ -1,0 +1,31 @@
+ID;Type;Title;Author;Price;Qty
+DB111;Database;Oracle Database;K. Loney;69,99;10
+DB222;Database;Databases in Depth;C. J. Date;29,95;6
+DB333;Database;Database Processing;D. Kroenke;136,65;12
+DB444;Database;Access Database Design;S. Roman;34,95;25
+DB555;Database;SQL Server 2005;P. Debetta;29,99;0
+GR111;Graphics;Adobe Photoshop CS2;Adobe;29,99;4
+GR222;Graphics;Learning Web Design;J. Niederst;39,95;8
+GR333;Graphics;Macromedia Flash Professional;T. Green;44,99;17
+GR444;Graphics;Digital Photographer Handbook;M. Freeman;24,95;22
+GR555;Graphics;Creating Motion Graphics;T. Meyer;59,95;13
+HW111;Hardware;How Computers Work;R. White;29,99;8
+HW222;Hardware;Upgrading and Repairing PCs;S. Mueller;59,99;5
+HW333;Hardware;USB System Architecture;D. Anderson;49,99;1
+HW444;Hardware;Designing Embedded Hardware;J. Catsoulis;44,95;3
+HW555;Hardware;Contemporary Logic Design;R. Katz;102,95;2
+SW111;Software;Java How to Program;Deitel;98,59;9
+SW222;Software;C Programming Language;B. Kernighan;44,25;12
+SW333;Software;Programming C#;J. Liberty;44,95;0
+SW444;Software;Programming PHP;R. J. Lerdorf;39,95;17
+SW555;Software;Visual Basic.NET Programming;P. Vick;49,99;13
+SY111;Systems;Operating Systems Concepts;A. Silberschatz;95,75;1
+SY222;Systems;The UNIX Operating System;J. D. Peek;19,95;12
+SY333;Systems;Windows Server 2003;W. R. Stanek;29,99;25
+SY444;Systems;Linux in a Nutshell;S. Figgins;44,95;1
+SY555;Systems;Mastering Active Directory;R. R. King;49,99;8
+WB111;Web;Ajax in Action;D. Crane;22,67;14
+WB222;Web;Professional ASP.NET 2.0;B. Evjen;32,99;21
+WB333;Web;Cascading Style Sheets;E. A. Meyer;39,95;6
+WB444;Web;DOM Scripting;J. Keith;23,09;8
+WB555;Web;Microsoft ASP.NET 2.0;D. Esposito;29,99;12
